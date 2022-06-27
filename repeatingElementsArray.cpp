@@ -5,6 +5,7 @@
 using namespace std;
 
 #define loop(i, a, b) for(int i = a; i < b; i++)
+
 int main()
 {
     int n;
